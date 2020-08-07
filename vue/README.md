@@ -1,5 +1,10 @@
 # Component demo using Vue + Vuetify + Vue Router + Vuex!
 
+# Summary
+ 1. All components templates are designed using [vuetify](https://vuetifyjs.com/) component
+ 2. [Axios](https://github.com/axios/axios) library is modied in order to add custom headers for REST API
+ 3. [Navigations gaurd](https://router.vuejs.org/guide/advanced/navigation-guards.html) ([Vue Router](https://router.vuejs.org/)) is used to protect private pages
+
 # Dependencies
 
  1. Vue (2.6.11)
